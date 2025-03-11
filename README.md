@@ -25,4 +25,4 @@ Os diagramas estão disponíveis no formato PDF, facilitando a visualização se
 - Baixe os arquivos da pasta diagramas.
 - Abra-os em qualquer visualizador de PDF, como Adobe Acrobat Reader, Google Chrome ou outro de sua preferência.
   
-*Este projeto está em constante evolução! Se tiver sugestões ou melhorias*
+*Este projeto está em constante evolução!*
