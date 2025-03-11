@@ -7,9 +7,9 @@ Este repositório contém a modelagem de dados para o TechStore, um sistema de g
 A modelagem segue o processo de construção do banco de dados, partindo do Modelo Conceitual, passando pelo Modelo Lógico e finalizando no Modelo Físico, que é implementado no PostgreSQL.
 
 Os principais artefatos disponíveis neste repositório são:
-- Diagrama Conceitual - MER/DER (.drawio) 
-- Diagrama Lógico (.drawio)
-- Diagrama Físico (.drawio)
+- Diagrama Conceitual - MER/DER 
+- Diagrama Lógico 
+- Diagrama Físico 
 - Script SQL de criação do banco
 
 ## Tecnologias Utilizadas ##
